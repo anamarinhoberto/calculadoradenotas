@@ -1,0 +1,11 @@
+/* Formatação geral da página */
+body {
+    background-color: #f0f2f5;
+    font-family: Arial, sans-serif;
+    color: #333333;
+}
+
+
+/* Caixa principal da aplicação */
+main {
+    background-color: white;
